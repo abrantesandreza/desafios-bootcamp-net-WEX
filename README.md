@@ -19,7 +19,7 @@ A saída do programa consiste em uma string formatada da seguinte maneira:
 - **Descrição:**
 Neste desafio, seu objetivo é criar um algoritmo que avalie o desempenho de testes automatizados. O algoritmo deve receber como entrada o número de testes automatizados bem-sucedidos e o número total de testes automatizados realizados. Com base nessas informações, ele determinará a taxa de sucesso do teste.
 
-Critérios da taxa: Taxa de Sucesso = (Número de Testes Automatizados Bem-sucedidos / Número Total de Testes Automatizados Realizados) * 100
+- **Critérios da taxa:** Taxa de Sucesso = (Número de Testes Automatizados Bem-sucedidos / Número Total de Testes Automatizados Realizados) * 100
 
 - **Entrada:**
 A entrada consiste em dois números inteiros: o número de testes automatizados bem-sucedidos e o número total de testes automatizados realizados.
