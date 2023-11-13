@@ -49,12 +49,12 @@ O programa exibirá uma mensagem que indicará se a funcionalidade está pronta 
 - **Descrição:**
 Para este desafio de código, desenvolva um algoritmo com objetivo a verificação de dados de entrada que atendam aos critérios especificados. O usuário é solicitado a inserir um número inteiro sendo um ID de teste, seguido de uma breve descrição do teste. O programa avalia se o ID é válido e se a descrição possui menos de 50 caracteres.
 
-    * O programa deve verificar duas condições principais:
+    * **O programa deve verificar duas condições principais:**
 
     * 1. Validade do ID: O ID de teste deve ser um número inteiro.
     * 2. Comprimento da Descrição: A descrição do teste deve ter menos de 50 caracteres.
 
-    * Critérios Específicos de Validação:
+    * **Critérios Específicos de Validação:**
 
     * 1. ID de Teste Inválido:
         Se o ID de teste inserido não for um número inteiro (por exemplo, se for uma string de texto ou um número decimal), o programa deve informar que o ID é inválido.
