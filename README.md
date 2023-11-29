@@ -73,12 +73,12 @@ A saída é uma mensagem informativa que utiliza condicionais para indicar se o 
 
 ## 5º Desafio: Arrays e Listas em C#:
 
-Descrição
+- **Descrição:**
 Neste desafio, o objetivo é criar um programa que ajude na priorização de testes de acordo com sua complexidade. O usuário deverá inserir a complexidade (baixa, media ou alta) de três testes distintos, utilizando conceitos de arrays ou listas. Com base nas complexidades fornecidas, o programa calculará e apresentará qual teste deve ser executado primeiro.
 
-Entrada
+- **Entrada:**
 O programa requer a entrada de três strings que representam os níveis de prioridade atribuídos aos três testes.
 
-Saída
+- **Saída:**
 A saída do programa consiste na indicação do teste que deve ser priorizado com base nas complexidades fornecidas.
 
