@@ -71,3 +71,14 @@ A entrada consiste em um valor inteiro que representa o ID de teste e a inserç�
 - **Saída:**
 A saída é uma mensagem informativa que utiliza condicionais para indicar se o ID é válido e se a descrição possui menos de 50 caracteres.
 
+## 5º Desafio: Arrays e Listas em C#:
+
+Descrição
+Neste desafio, o objetivo é criar um programa que ajude na priorização de testes de acordo com sua complexidade. O usuário deverá inserir a complexidade (baixa, media ou alta) de três testes distintos, utilizando conceitos de arrays ou listas. Com base nas complexidades fornecidas, o programa calculará e apresentará qual teste deve ser executado primeiro.
+
+Entrada
+O programa requer a entrada de três strings que representam os níveis de prioridade atribuídos aos três testes.
+
+Saída
+A saída do programa consiste na indicação do teste que deve ser priorizado com base nas complexidades fornecidas.
+
